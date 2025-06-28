@@ -23,11 +23,11 @@ This is a number guessing game where the **host sets the secret number and numbe
 ## 📌 Notes
 
 - Uses `float()` to support decimal guesses
-- Designed and built fully in **Class 7**  
-- **All logic, design, and code by me**  
+- The number entered by the host **must be hidden manually on the output screen** to avoid spoilers
+- Designed and built fully in **Class 7**
+- **All logic, design, and code by me**
 - **README formatting and structure by ChatGPT**
 
 ---
 
 > This is part of my **Mini Projects Series** — each project builds my skills toward becoming a full-stack developer 💻
-
