@@ -11,7 +11,7 @@ Each project is a step forward in my journey to become a better coder and future
 |-------|---------------------|----------------------------------------------|
 | MP1   | Mini Dictionary     | A simple personal dictionary in Python       |
 | MP2   | Calculator          | A simple user-friendly calculator            |
-| MP3   | Coming Soon...      | 🚧 Under construction...                     |
+| MP3   | (Theyre hard to keep track of sry      |                           |
 
 ---
 
