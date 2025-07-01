@@ -30,4 +30,67 @@ This is a number guessing game where the **host sets the secret number and numbe
 
 ---
 
-> This is part of my **Mini Projects Series** — each project builds my skills toward becoming a full-stack developer 💻
+> This is part of my **Mini Projects Series** — each project builds my skills toward becoming a full-stack developer
+
+---
+
+# 🎮 Guess The Number – Version 2.0
+
+**Type:** Mini Project  
+**Version:** 2.0  
+**Language:** Python  
+**Author:** Tanmay Raj  
+**README support:** ChatGPT 🤖
+
+---
+
+## 🌟 What’s New in Version 2.0?
+
+- 🧩 **Difficulty Modes**  
+  - Choose between:
+    - `1` → Integer guessing (using `random.randint()`)
+    - `2` → Decimal/Float guessing (using `random.uniform()`)
+
+- 🎛️ **Dynamic Range Selection**  
+  - Host inputs the upper limit; number is picked randomly between `0` and that value.
+
+- 🛡️ **Input Error Handling**  
+  - `try-except` used to handle invalid difficulty selection.
+
+---
+
+## ✅ Features Retained from Previous Versions
+
+- 💬 Hint system: "Too high" / "Too low" feedback after each guess  
+- 🔄 Game ends after correct guess or when allowed attempts run out  
+- 🎯 Host defines number of tries  
+- 🧼 Clean, user-friendly prompts in console
+
+---
+
+## 📝 Notes
+
+- `float()` is still used for all guesses for now (even in integer mode).
+- This is a **major update** to the original version — worthy of being called a **full mini-project**.
+- No external libraries required except Python’s built-in `random`.
+
+---
+
+## 🛠️ Suggestions for v3.0 (Optional Improvements)
+
+- Add a GUI using Tkinter  
+- Use functions to modularize the code  
+- Add score tracking / number of attempts used  
+- Add difficulty labels (Easy, Medium, Hard)  
+- Leaderboard for multiple players
+
+---
+
+> ⚠️ **This project was built and debugged entirely by Tanmay Raj (Class 7), with this README written with the help of ChatGPT.**
+
+
+
+
+
+
+
