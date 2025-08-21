@@ -1,7 +1,9 @@
 # 🐉 Rouge Terminal
 
 **Status:** Dev (Structure & Polishing)  
+
 **Lang:** Python
+
 **Note:** This README is made by ChatGPT but all the logic and code is fully mine.
 Text-based roguelike combat in the terminal. Pick a character, unlock upgrades, and beat bosses.
 
